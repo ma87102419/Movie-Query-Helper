@@ -9,6 +9,7 @@ This project is divided to two parts:
 2. Main function and GUI
 
 ## Report
+https://github.com/ma87102419/Movie-Query-Helper/blob/main/report.pdf
 
 ## Demo
 You can see the demo on youtube:
