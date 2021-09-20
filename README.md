@@ -1,6 +1,5 @@
 # Movie-Query-Helper
-This project is designed to assist users in finding movies and other further information such as theater's location, time, movie catogories, etc.
-With this helper, we don't need to search movie-associated information in many webpages but merely on this helper and we are access to adequate information about popular movies recently.
+This project is designed to assist users in finding movies and other further information such as theater's location, time, movie categories, etc. With this helper, we don't need to search for movie-associated information on many webpages but merely on this helper and we have access to adequate information about popular movies recently.
 
 ## Details
 This project is divided to two parts:
